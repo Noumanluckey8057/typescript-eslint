@@ -1,3 +1,4 @@
+[list.md](https://github.com/Noumanluckey8057/typescript-eslint/files/14798030/list.md)
 <h1 align="center">typescript-eslint</h1>
 
 <p align="center">Monorepo for the tooling that enables ESLint and Prettier to support TypeScript</p>
